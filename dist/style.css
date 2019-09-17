@@ -8,7 +8,7 @@ main {
 }
 
 body {
-	background: url('/dist/assets/texture.jpg');
+	background: url('/assets/texture.jpg');
 	background-image: linear-gradient(180deg, #0f004e 0, #340086);
 	background-size: 50%;
 	background-repeat: repeat;
