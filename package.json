@@ -1,22 +1,22 @@
 {
-	"name": "SamRaha.github.io",
+	"name": "Portfolio",
 	"version": "1.0.0",
 	"description": "My portfolio website that showcases my skills and projects.",
 	"main": "main.js",
 	"scripts": {
-		"desploy": "gh-pages -d dist"
+		"deploy": "gh-pages -d dist"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/SamRaha/SamRaha.github.io.git"
+		"url": "git+https://github.com/SamRaha/SamRaha.github.io./Portfolio.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/SamRaha/SamRaha.github.io/issues"
+		"url": "https://github.com/SamRaha/SamRaha.github.io/Portfolio/issues"
 	},
-	"homepage": "https://samraha.github.io/",
+	"homepage": "https://samraha.github.io/Portfolio",
 	"dependencies": {
 		"gh-pages": "^2.1.1"
 	}
