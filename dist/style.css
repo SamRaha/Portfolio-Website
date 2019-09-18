@@ -68,8 +68,22 @@ body {
 	color: white;
 	z-index: 100;
 	transition: background-color 1s ease 0s;
-	padding: 0rem 3rem !important;
+	padding: 0rem 0rem !important;
 }
+.navbar-brand,
+.navbar-toggler {
+	margin: 0em 1em !important;
+}
+.navbar-collapse {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.ml-atuo,
+.mx-auto {
+	margin-right: 1em;
+}
+
 .navbar-dark .navbar-nav .nav-link {
 	color: rgb(253, 253, 253) !important;
 }
