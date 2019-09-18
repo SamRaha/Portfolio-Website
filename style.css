@@ -74,10 +74,8 @@ body {
 .navbar-toggler {
 	margin: 0em 1em !important;
 }
-.navbar-collapse {
-	border-left: 1px solid black;
-	border-right: 1px solid black;
-	border-bottom: 1px solid black;
+.show {
+	box-shadow: 0 0 4px grey;
 }
 .ml-atuo,
 .mx-auto {
