@@ -75,7 +75,7 @@ body {
 	margin: 0em 1em !important;
 }
 .show {
-	box-shadow: 0 0 4px grey;
+	box-shadow: 0 6px 6px -6px black;
 }
 .ml-auto,
 .mx-auto {
