@@ -77,9 +77,9 @@ body {
 .show {
 	box-shadow: 0 0 4px grey;
 }
-.ml-atuo,
+.ml-auto,
 .mx-auto {
-	margin-right: 1em;
+	margin-right: 1em !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
