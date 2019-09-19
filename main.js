@@ -17,7 +17,7 @@ $(document).ready(function() {
 //function that calculates the number of months I have been learning full stack dev since 01/01/2019 to now.
 function getMonths() {
 	const dateNow = new Date();
-	const dateStart = new Date('02/01/2019'); //mm/dd/yyyy
+	const dateStart = new Date('01/01/2019'); //mm/dd/yyyy
 	diffMonths = Math.abs(dateStart.getMonth() - dateNow.getMonth());
 	return diffMonths;
 }
