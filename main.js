@@ -23,4 +23,14 @@ function getMonths() {
 }
 document.getElementById('date').innerHTML = getMonths();
 
-//test
+// anchor tag animation
+
+$('a').click(function() {
+	$('html, body').animate(
+		{
+			scrollTop: $($(this).attr('href')).offset().top
+		},
+		500
+	);
+	return false;
+});
