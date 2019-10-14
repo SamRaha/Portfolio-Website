@@ -427,3 +427,7 @@ body {
 		linear-gradient(135deg, #670d10 0%, #092756 100%);
 	background-attachment: fixed;
 }
+
+.btn {
+	font-family: Oswald, Helvetica, Arial, sans-serif;
+}
