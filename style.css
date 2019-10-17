@@ -198,6 +198,10 @@ s .card .h2,
 	padding-left: 15px;
 	padding-right: 15px;
 }
+.col-md-12,
+.col-lg-5 {
+	padding: 0 !important;
+}
 
 @media (min-width: 992px) {
 	.col-mid-4 {
